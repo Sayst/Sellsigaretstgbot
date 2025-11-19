@@ -1,4 +1,1 @@
-balance: 400
-packs: 20
-blocks: 10
-profit: 400
+
